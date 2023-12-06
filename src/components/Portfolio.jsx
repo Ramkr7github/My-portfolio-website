@@ -14,14 +14,14 @@ const Portfolio = () => {
             id:1,
             src: youtube,
             git: "https://github.com/Ramkr7github/video_sharing_website" ,
-            Deplink: "https://video-sharing-website07.netlify.app/"
+            Deplink: "https://video-sharing-website.vercel.app/"
         },
 
         {
             id:2,
             src: paytmUI,
             git: "https://github.com/Ramkr7github/Paytmweb_clone" ,
-            Deplink: "https://paytmweb-clone.netlify.app/"
+            Deplink: "https://paytmweb-clone.vercel.app/"
         },
 
         {
