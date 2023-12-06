@@ -28,27 +28,27 @@ const Portfolio = () => {
             id:3,
             src: webservices,
             git: "https://github.com/Ramkr7github/Web-cloud-services-website" ,
-            Deplink: "https://cloud-web-services-website.netlify.app/"
+            Deplink: "https://web-cloud-services-website.vercel.app/"
         },
 
         {
             id:4,
             src: Ecommerce,
             git: "https://github.com/Ramkr7github/E-commerce-app" ,
-            Deplink: "https://e-commerce-webapp-7.netlify.app/"
+            Deplink: "https://e-commerce-app-six-sigma.vercel.app/"
         },
         {
             id:5,
             src: TicTacToe,
             git: "https://github.com/Ramkr7github/TicTacToeGame" ,
-            Deplink: "https://tictactoe-fungame.netlify.app/"
+            Deplink: "https://tic-tac-toe-game-five-delta.vercel.app/"
         },
 
         {
             id:6,
             src: monsters,
             git: "https://github.com/Ramkr7github/Project_1" ,
-            Deplink: "https://comforting-monstera-beff55.netlify.app/"
+            Deplink: "https://project-1-nine-livid.vercel.app/"
         },
     ]
 
